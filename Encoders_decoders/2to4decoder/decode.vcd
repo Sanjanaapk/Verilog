@@ -1,0 +1,33 @@
+$date
+	Thu Sep 04 19:02:30 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module decode24_tb $end
+$scope module uut $end
+$var wire 2 ! A [1:0] $end
+$var wire 1 " e $end
+$var wire 4 # y [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1 #
+1"
+b0 !
+$end
+#200
+b10 #
+b1 !
+#300
+b100 #
+b10 !
+#400
+b10 #
+b1 !
+#500
